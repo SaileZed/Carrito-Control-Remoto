@@ -1,0 +1,24 @@
+*****************************************************************************************
+*											*
+*			       "Algoritmos Graficos "                  			*
+*											*
+*		Carrito a control remoto (IR)	usando interrucciones			*
+*											*
+*											*
+*	Integrantes:									*	
+*											*
+*		- Jośe Elías Henández Villegas						*
+*		- Pedro Antonio Sanchez Morejon						*
+*		- Rommel Amadeus Alberto Mejia						*
+*		- Juan Gabriel Martinez	Amaya						*
+*											*
+*											*
+*											*
+*		***********************************************				*
+*		*					      *				*	
+*		*	Maestro: Ing. Ludwin Hernández        *				*
+*		*					      *				*
+*		***********************************************				*
+*											*
+*											*
+*****************************************************************************************
